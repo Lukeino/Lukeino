@@ -3,6 +3,7 @@ which I strongly believe is the perfect conjunction of creativity and logic.
 
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" width="60" />
+
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" width="60" />
 
 <!---
