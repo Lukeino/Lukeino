@@ -3,7 +3,7 @@ which I strongly believe is the perfect conjunction of creativity and logic.
 
 
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" width="60" /> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" width="60" /> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" width="60" /> <img src="https://github.com/Luca00IT/icons/blob/main/unity-original-white.svg" width="60" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" width="60" /> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" width="60" /> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" width="60" /> <img src="https://github.com/Luca00IT/icons/blob/main/unity-original-white.svg" width="60" /> <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" width="60" /> 
 
 <!---
 Luca00IT/Luca00IT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
