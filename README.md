@@ -7,12 +7,15 @@ Here you can find all my projects that I have developed during my career, both r
 Almost all of my software will be **Open Source**.
 
 **Programming languaes**
+
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" width="60" /> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" width="60" /> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" width="60" /> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="60" />
 
 **Game engines and 3D modeling engines**
+
 <img src="https://github.com/Luca00IT/icons/blob/main/unity-original-white.svg" width="60" /> <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" width="60" /> <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" width="60" />
 
 **IDE, virtual environments and framework**
+
 <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="60" /> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" width="60" /> 
 
 *All the projects on this GitHUB do not represent my skills which are constantly changing every day.*
