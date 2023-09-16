@@ -1,4 +1,7 @@
-# Luca - Computer Science Student
+# Luca00IT
+
+Hello and welcome to my GitHUB!
+My name is **Luca** and I am currently a **Computer Science and software engineering student**.
 
 I am currently investing all my free time on **Game Development**, 
 which I strongly believe is the perfect conjunction of creativity and logic.
