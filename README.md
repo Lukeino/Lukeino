@@ -1,6 +1,7 @@
 # Luca00IT
 
 Hello and welcome to my GitHUB!
+
 My name is **Luca** and I am currently a **Computer Science and Software Engineering student**.
 
 I am currently investing all my free time on **Game Development**, 
