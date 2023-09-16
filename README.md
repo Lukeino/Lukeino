@@ -1,4 +1,4 @@
-Hi, I am **Luca**. I am a **Computer Science student**. 
+# Luca - Computer Science Student
 
 I am currently investing all my free time on **Game Development**, 
 which I strongly believe is the perfect conjunction of creativity and logic.
