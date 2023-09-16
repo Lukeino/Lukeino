@@ -6,7 +6,6 @@ My name is **Luca** and I am currently a **Computer Science and Software Enginee
 
 I am currently investing all my free time on **Game Development**, 
 which I strongly believe is the perfect conjunction of creativity and logic.
-
 I also like to make personal **Software projects** both for PC and Android/iOS.
 
 Here you can find all my public projects that I have developed during my career.
