@@ -21,7 +21,7 @@ Almost all of my software will be **Open Source**.
 
 ## IDE, Virtual Environments, and Frameworks
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="60" /> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" width="60" /> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="60" /> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" width="60" /> 
 
 *NOTE: All the projects on this GitHUB do not represent my skills which are constantly changing every day.*
 
