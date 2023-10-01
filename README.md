@@ -1,6 +1,6 @@
 # Luca00IT
 
-Hello and welcome to my GitHUB!
+Hello and welcome to my GitHub!
 
 My name is **Luca** and I am currently a **Computer Science and Software Engineering student**.
 
