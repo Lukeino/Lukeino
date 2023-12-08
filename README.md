@@ -18,7 +18,7 @@ Almost all of my software will be **Open Source**.
 
 ## Game Engines, Tools and 3D Modeling Engines
 
-<img src="https://github.com/Luca00IT/icons/blob/main/unity-original-white.svg" width="60" /> <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" width="60" /> <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" width="60" /> <img src="https://github.com/Luca00IT/icons/blob/main/Construct%203%20Logo.png" width="60" />
+<img src="https://github.com/Luca00IT/icons/blob/main/unity-original-white.svg" width="60" /> <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" width="60" />  <img src="https://github.com/Luca00IT/icons/blob/main/Construct%203%20Logo.png" width="60" />
 
 ## IDE, Virtual Environments and Frameworks
 
