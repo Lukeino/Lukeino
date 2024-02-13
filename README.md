@@ -4,7 +4,7 @@ Hello and welcome to my GitHub!
 
 My name is **Luca** and I am currently a **Computer Science student**.
 
-I am currently investing all my free time on **Game Development** and **Ethical Hacking**, 
+I am currently investing all my free time on **Game Development**, 
 which I strongly believe is the perfect conjunction of creativity and logic.
 I also like to make personal **Software projects** both for PC and Android/iOS.
 
