@@ -2,14 +2,14 @@
 
 Hello and welcome to my GitHub!
 
-My name is **Luca** and I am currently a **Computer Science student**.
+My name is **Luca** and I am a **Computer Science and Software Development student**.
 
 I am currently investing all my free time on **Game Development**, 
 which I strongly believe is the perfect conjunction of creativity and logic.
 
-I also like to make personal **Software projects** both for PC and Android/iOS.
+I also like to make personal **Software projects** on many different platforms.
 
-Here you can find all my public projects that I have developed during my career.
+Here you can find most of my public projects that I have developed during my career.
 Almost all of my software will be **Open Source**.
 
 ## Programming Languages
