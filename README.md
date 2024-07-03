@@ -1,4 +1,4 @@
-# Lukeinu
+# Lukeino
 
 Hello and welcome to my GitHub!
 
