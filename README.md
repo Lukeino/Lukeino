@@ -4,7 +4,6 @@ My name is **Luca** and I am a **Computer Science and Software Development stude
 
 I am currently investing all my free time on **Game Development**, 
 which I strongly believe is the perfect conjunction of *creativity* and *logic*.
-
 I also like to make personal **Software projects** on many different platforms.
 
 Here you can find most of my public projects that I have developed during my career.
