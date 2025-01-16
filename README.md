@@ -1,6 +1,6 @@
 # Hello, traveler. This is my GitHub profile 🖥️
 
-My name is **Luca** and I am a **Computer Science and Software Development student**.
+My name is **Luca** and I am a **Computer Science and Technologies for Software Production student**.
 
 I am currently investing all my free time on **Game Development**, 
 which I strongly believe is the perfect conjunction of *creativity* and *logic*.
