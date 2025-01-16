@@ -1,4 +1,4 @@
-# Hello, traveler. This is my GitHub profile 🖥️
+# Greetings, traveler. Welcome to my GitHub profile! 🖥️
 
 My name is **Luca** and I am a **Computer Science and Technologies for Software Production student**.
 
