@@ -2,7 +2,7 @@
 
 My name is **Luca** and I am a **Computer Science and Technologies for Software Production student**.
 
-I am currently investing all my free time on **Game Development**, 
+I am currently investing most of my free time on **Game Development**, 
 which I strongly believe is the perfect conjunction of *creativity* and *logic*.
 I also like to make personal **Software projects** on many different platforms.
 
