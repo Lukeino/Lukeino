@@ -9,6 +9,8 @@ I also like to make personal **Software projects** on many different platforms.
 Here you can find most of my public projects that I have developed during my career.
 Almost all of my software will be **Open Source**.
 
+*Many of my repositories here do not represent my skills.*
+
 ---
 
 *List of programming languages and tools I have significant experience with* 📚
