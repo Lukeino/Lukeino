@@ -11,7 +11,7 @@ Almost all of my software will be **Open Source**.
 
 ---
 
-*List of programming languages and tools I have significant experience with 📚*
+*List of programming languages and tools I have significant experience with* 📚
 
 ## Programming Languages
 
