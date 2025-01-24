@@ -29,6 +29,9 @@ Almost all of my software will be **Open Source**.
 ## Graphic Software
 <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" width="60" /> 
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tuo-username&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuo-username&layout=compact&theme=radical)
+
 <!---
 Luca00IT/Luca00IT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
