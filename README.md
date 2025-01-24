@@ -30,7 +30,6 @@ Almost all of my software will be **Open Source**.
 <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" width="60" /> 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lukeino&layout=compact&theme=radical)
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 <!---
