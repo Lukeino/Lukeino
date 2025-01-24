@@ -30,6 +30,8 @@ Almost all of my software will be **Open Source**.
 <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" width="60" /> 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tuo-username&color=blue&style=flat-square)
+![GitHub Streak](https://streak-stats.demolab.com/?user=tuo-username&theme=radical)
+
 
 <!---
 Luca00IT/Luca00IT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
