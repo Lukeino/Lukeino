@@ -11,7 +11,7 @@ Almost all of my software will be **Open Source**.
 
 ## Programming Languages
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" width="60" /> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" width="60" /> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" width="60" /> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="60" /> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="60" /> <img src= "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" width="60" /> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" width="60" /> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" width="60" /> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="60" /> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="60" /> <img src= "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="60"/>
 
 
 ## Game Engines, Tools and 3D Modeling Engines
