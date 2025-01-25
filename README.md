@@ -18,15 +18,9 @@ Almost all of my software will be **Open Source**.
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" width="60" /> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" width="60" /> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" width="60" /> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="60" /> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="60" /> <img src= "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="60"/>
 
----
-
 <img src="https://github.com/Luca00IT/icons/blob/main/unity-original-white.svg" width="60" /> <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" width="60" />  <img src="https://github.com/Luca00IT/icons/blob/main/Construct%203%20Logo.png" width="60" />
 
----
-
 <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="60" /> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="60" /> <img src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original.svg" width="60" /> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="60" />
-
----
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" width="60" /> 
 
